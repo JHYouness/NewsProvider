@@ -1,4 +1,4 @@
-<h1 align="center">QR Reader</h1>
+<h1 align="center">News Provider</h1>
 <h2>About the project</h2>
 <p>This application allows you to see the current news by consuming the Newsapi API.</p>
 
